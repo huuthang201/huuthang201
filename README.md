@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - [Facebook](https://www.facebook.com/ht3tiz)
-  - ![It's me]https://www.facebook.com/photo?fbid=854978314836360&set=picfp.100009725988705)
+  - ![It's me](https://www.facebook.com/photo?fbid=854978314836360&set=picfp.100009725988705)
   
   /*_____________________________________*/
 <!---
