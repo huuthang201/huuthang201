@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Thang
+# About Me
+
 - 🌱 I’m currently learning Information System in UIT
+
+# Contact
+
 - 📫 Email: thangnh2001@gmail.com
   - [Facebook](https://www.facebook.com/ht3tiz)
   - ![It's me](https://1.bp.blogspot.com/-K5-Qi5yHu1k/YOz6OoWk07I/AAAAAAAACIE/__R31A1Be1IrG8QUTZ4z7u2WWXR62LeNACLcBGAsYHQ/w640-h358/ofica.png)
