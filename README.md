@@ -10,7 +10,9 @@
 
 # huuthang201 on github
 
-https://github-readme-stats.vercel.app/api?username=huuthang201&hide_border=true&show_icons=true
+<p align="center">
+  <a href="https://github.com/huuthang201"><img src="https://github-readme-stats.vercel.app/api?username=huuthang201&hide_border=true&show_icons=true" alt="huuthang201's github stats"></a>
+</p>
 
 # Contact
 
