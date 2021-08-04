@@ -8,10 +8,14 @@
   <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
 </p>
 
+# huuthang201 on github
+
+https://github-readme-stats.vercel.app/api?username=huuthang201&hide_border=true&show_icons=true
+
 # Contact
 
-- 📫 Email: thangnh2001@gmail.com
-- [Facebook](https://www.facebook.com/ht3tiz)
+- Email: thangnh2001@gmail.com
+- Chat: [Facebook](https://www.facebook.com/ht3tiz)
   
   /*_____________________________________*/
 <!---
