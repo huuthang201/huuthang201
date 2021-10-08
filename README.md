@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
-</p>
 
 # huuthang201 on github
 
