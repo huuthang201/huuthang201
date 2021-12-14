@@ -8,9 +8,18 @@
 # huuthang201 on github
 
 <p align="center">
-  <a href="https://github.com/huuthang201"><img src="https://github-readme-stats.vercel.app/api?username=huuthang201&hide_border=true&show_icons=true" alt="huuthang201's github stats"></a>
+  <a href="https://github.com/huuthang201"><img src="https://github-readme-stats.vercel.app/api?username=huuthang201&theme=tokyonight"></a>
 </p>
-
+<br/>
+<p align="center">
+  <a href="https://github.com/huuthang201">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuthang201&langs_count=6&theme=tokyonight" />
+</a>
+</p>
+<br/>
+<br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=huuthang201&theme=github" align="center align="center"/>
+<br/>
 # Contact
 
 - Email: thangnh2001@gmail.com
