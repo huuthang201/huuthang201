@@ -13,13 +13,11 @@
 <br/>
 <p align="center">
   <a href="https://github.com/huuthang201">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=huuthang201&langs_count=6&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuthang201&langs_count=6&theme=tokyonight" />
 </a>
 </p>
 <br/>
-<br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=huuthang201&theme=github" align="center align="center"/>
-<br/>
+
 # Contact
 
 - Email: thangnh2001@gmail.com
