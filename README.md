@@ -8,7 +8,6 @@
 # Contact
 
 - Email: thangnh2001@gmail.com
-- Chat: [Facebook](https://www.facebook.com/ht3tiz)
   
 <!---
 huuthang201/huuthang201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
