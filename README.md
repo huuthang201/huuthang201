@@ -4,8 +4,6 @@
   </a>
 </h1>
 
----
-# Contact
 
 - Email: thangnh2001@gmail.com
   
