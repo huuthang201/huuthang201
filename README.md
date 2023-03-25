@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+<p align="center">Visitor count<br><br><img src="https://profile-counter.glitch.me/huuthang201/count.svg" /> </p>
 
 - Email: thangnh2001@gmail.com
 - Linkedin: [thangnh2001](https://www.linkedin.com/in/thangnh2001/)
