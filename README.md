@@ -6,6 +6,11 @@
 
 <p align="center">Visitor count<br><br><img src="https://profile-counter.glitch.me/huuthang201/count.svg" /> </p>
 
+<h2>Badge Earned</h2>
+![introduction-to-cybersecurity](https://github.com/huuthang201/huuthang201/assets/64240532/3009e9ad-0f05-4a92-a50e-49910e72b6d8)
+
+<h2>Certificate</h2>
+
 - Email: thangnh2001@gmail.com
 - Linkedin: [thangnh2001](https://www.linkedin.com/in/thangnh2001/)
 - Twitter: [@thangnh2001](https://twitter.com/thangnh2001)
