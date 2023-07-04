@@ -11,6 +11,8 @@
 
 <h2>Certificate</h2>
 
+<h2>Contact</h2>
+
 - Email: thangnh2001@gmail.com
 - Linkedin: [thangnh2001](https://www.linkedin.com/in/thangnh2001/)
 - Twitter: [@thangnh2001](https://twitter.com/thangnh2001)
