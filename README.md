@@ -5,8 +5,6 @@
 </h1>
 
 <p align="center">Visitor count<br><br><img src="https://profile-counter.glitch.me/huuthang201/count.svg" /> </p>
-<a href="https://app.daily.dev/huuthang201"><img src="https://api.daily.dev/devcards/3f436ee9b2324c778b10482874ac1cb5.png?r=eim" width="400" alt="Nguyen Huu Thang's Dev Card"/></a>
-
 ## Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=huuthang201&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="huuthang201" /></p>
