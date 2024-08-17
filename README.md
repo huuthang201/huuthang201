@@ -6,6 +6,15 @@
 
 <p align="center">Visitor count<br><br><img src="https://profile-counter.glitch.me/huuthang201/count.svg" /> </p>
 <a href="https://app.daily.dev/huuthang201"><img src="https://api.daily.dev/devcards/3f436ee9b2324c778b10482874ac1cb5.png?r=eim" width="400" alt="Nguyen Huu Thang's Dev Card"/></a>
+
+## Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=huuthang201&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="huuthang201" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=huuthang201&theme=material-palenight&hide_border=false" alt="huuthang201" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuthang201&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="huuthang201" /></p>
+
+![](https://github-profile-trophy.vercel.app/?username=huuthang201&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 <h2>Badge Earned</h2>
 ![introduction-to-cybersecurity](https://github.com/huuthang201/huuthang201/assets/64240532/3009e9ad-0f05-4a92-a50e-49910e72b6d8)
 
