@@ -12,10 +12,10 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=huuthang201&theme=material-palenight&hide_border=false" alt="huuthang201" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuthang201&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="huuthang201" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=huuthang201&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 <h2>Badge Earned</h2>
-![introduction-to-cybersecurity](https://github.com/huuthang201/huuthang201/assets/64240532/3009e9ad-0f05-4a92-a50e-49910e72b6d8)
+- introduction-to-cybersecurity:
+<p></p>
+<p><img src="https://github.com/huuthang201/huuthang201/assets/64240532/3009e9ad-0f05-4a92-a50e-49910e72b6d8" alt="huuthang201" /></p>
 
 <h2>Certificate</h2>
 
