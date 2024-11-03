@@ -6,10 +6,8 @@
 
 <p align="center">Visitor count<br><br><img src="https://profile-counter.glitch.me/huuthang201/count.svg" /> </p>
 
-## Stats
-
-<h2>Badges & Achievements Earned</h2>
-- [List](https://github.com/huuthang201/huuthang201)
+## Badges & Achievements Earned
+- [View](https://github.com/huuthang201/huuthang201/)
 
 <h2>Contact</h2>
 
