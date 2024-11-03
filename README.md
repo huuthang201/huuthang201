@@ -8,12 +8,8 @@
 
 ## Stats
 
-<h2>Badge Earned</h2>
-- introduction-to-cybersecurity:
-<p></p>
-<p><img src="https://github.com/huuthang201/huuthang201/assets/64240532/3009e9ad-0f05-4a92-a50e-49910e72b6d8" alt="huuthang201" /></p>
-
-<h2>Certificate</h2>
+<h2>Badges & Achievements Earned</h2>
+- [List](https://github.com/huuthang201/huuthang201)
 
 <h2>Contact</h2>
 
