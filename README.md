@@ -8,10 +8,6 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=huuthang201&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="huuthang201" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=huuthang201&theme=material-palenight&hide_border=false" alt="huuthang201" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuthang201&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="huuthang201" /></p>
-
 <h2>Badge Earned</h2>
 - introduction-to-cybersecurity:
 <p></p>
